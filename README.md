@@ -1,2 +1,2 @@
 # huntgossip
-This project targets to research how gossip spread.
+This project targets to research how gossips spread.
